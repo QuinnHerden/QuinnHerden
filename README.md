@@ -14,13 +14,3 @@ that stay legible as a company grows.
 a company's Metric System of Record: one canonical definition for every number,
 traceable to source and kept true in the company's own cloud. The missing peer
 of the CRM and the ERP.
-
-**Motifs**, an early tool to make a company's work and state legible. Built in
-the open. Experimental, and honest about what works and what does not yet.
-
-### SaaS Metrics Reference
-
-A public reference for defining SaaS metrics so the same number means one thing
-across teams. Early and open. [Link to come.]
-
-The repos here are personal tooling, not a portfolio of the work above.
